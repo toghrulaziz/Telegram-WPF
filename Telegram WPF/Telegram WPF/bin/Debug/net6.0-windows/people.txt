@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Elon",
+    "Surname": "Musk",
+    "Avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "LastMessage": "hi",
+    "Messages": [
+      {
+        "Text": "Salam",
+        "DateTime": "2023-03-04T16:02:37.3158287+04:00"
+      },
+      {
+        "Text": "Necesen?",
+        "DateTime": "2023-03-04T16:02:37.3174122+04:00"
+      }
+    ]
+  },
+  {
+    "Name": "Donald",
+    "Surname": "Trump",
+    "Avatar": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
+    "LastMessage": "hi",
+    "Messages": [
+      {
+        "Text": "Salam",
+        "DateTime": "2023-03-04T16:02:37.3158287+04:00"
+      },
+      {
+        "Text": "Necesen?",
+        "DateTime": "2023-03-04T16:02:37.3174122+04:00"
+      }
+    ]
+  }
+]

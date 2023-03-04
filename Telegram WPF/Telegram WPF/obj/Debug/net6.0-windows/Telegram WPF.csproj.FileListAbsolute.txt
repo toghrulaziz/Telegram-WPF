@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\bin\Debug\net6.0-windows\Telegram WPF.exe
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\bin\Debug\net6.0-windows\Telegram WPF.deps.json
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\bin\Debug\net6.0-windows\Telegram WPF.runtimeconfig.json
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\bin\Debug\net6.0-windows\Telegram WPF.dll
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\bin\Debug\net6.0-windows\Telegram WPF.pdb
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF_MarkupCompile.cache
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF_MarkupCompile.lref
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.g.resources
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.AssemblyInfo.cs
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.dll
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\refint\Telegram WPF.dll
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.pdb
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.genruntimeconfig.cache
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\ref\Telegram WPF.dll
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Telegram WPF\Telegram WPF\Telegram WPF\obj\Debug\net6.0-windows\Telegram WPF.csproj.CopyComplete
